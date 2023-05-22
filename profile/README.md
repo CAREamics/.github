@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner_careamics.png">
+  <img src="https://github.com/CAREamics/.github/blob/main/profile/images/banner_careamics.png">
 </p>
 
 
